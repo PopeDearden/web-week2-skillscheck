@@ -95,3 +95,11 @@ body {
     width: 30vw;
     height: 40vh;
 }
+.bottom {
+    width: 100vw;
+    height: 20vh;
+    background-color: rgb(24, 24, 71);
+}
+.image {
+    width: 35vw;
+}
